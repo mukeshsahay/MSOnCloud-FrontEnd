@@ -1,0 +1,18 @@
+.welcome {
+    font-size: 30px;
+    color: rgb(39, 36, 36);
+    }
+
+.header {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35));
+        background-position: center;
+        position: relative;
+    }
+
+.userRolechange {
+    font-size: 20px;
+}
+
+.tableData {
+    background-image: url(TableBackground.png);
+}
